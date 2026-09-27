@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local configuration & user data
+img2palette_config.json
+
+# Environments
+.venv/
+venv/
+ENV/
+
+# Output files / temp images (если будут генерироваться в корне)
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# IDE & Editors
+.vscode/
+.idea/
+*.swp
+
